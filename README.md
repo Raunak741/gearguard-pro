@@ -16,7 +16,7 @@ Social Collaboration: Built-in Odoo Chatter for team communication and task sche
 
 🚀 Beginner's Installation Guide (Step-by-Step)
 
- If you are new to Odoo, follow these steps to get this project running on your local machine.
+  If you are new to Odoo, follow these steps to get this project running on your local machine.
 
 1. Prerequisites->
 
